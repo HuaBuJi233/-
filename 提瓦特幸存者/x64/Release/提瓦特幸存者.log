@@ -1,0 +1,8 @@
+﻿  main.cpp
+x64\Release\ACTOR.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  2 of 192 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  提瓦特幸存者.vcxproj -> F:\Ⅲ-Work\VisualStudio_Project\提瓦特幸存者\x64\Release\提瓦特幸存者.exe
